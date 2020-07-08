@@ -50,14 +50,6 @@ education:
     - degree: Bachelor of Software Engineering
       university: Pontifical Catholic University of Rio Grande do Sul
       time: 2017-2021
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: Software Developer
       time: 09/2019 - 02/2020
@@ -82,15 +74,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Projects i participated in where they had the greatest impact on my career
+      Projects I had participated, who had a great impact on my career
     assignments:
       - title: Checkout
-        link: ""
+        link: 
         tagline: "Product developed for a large retailer, a self-service cashier to facilitate the customer's life, avoiding queues and others."
 
       - title: Federal police
-        link: ""
-        tagline: "It consists of developing a mobile application and a backend system to collect, store and export the crime scene's expert data, so that it can be used within a context of knowledge generation and Forensic Intelligence."
+        link: 
+        tagline: "It consists of developing a mobile application and a back-end system to collect, store and export the crime scene's expert data, so that it can be used within a context of knowledge generation and Forensic Intelligence."
 
 # publications:
     # title: Publications

@@ -111,30 +111,33 @@ skills:
 
     toolset:
       - name: Java
-        level: 100%
+        level: 90%
         
       - name: HTML & CSS
-        level: 95%
+        level: 85%
         
       - name: Javascript 
-        level: 90%
+        level: 85%
 
       - name: Spring
-        level: 90%
+        level: 80%
 
       - name: React
-        level: 90%
+        level: 80%
         
       - name: SQL
-        level: 85%
+        level: 75%
         
       - name: NoSQL
-        level: 85%
+        level: 65%
         
       - name: Python
         level: 50%
   
       - name: C
+        level: 25%
+		
+	  - name: R
         level: 25%
 
 footer: >
